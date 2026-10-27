@@ -1,0 +1,14 @@
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\bin\Debug\net9.0\ATMSimulation-Venegas-A2.exe
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\bin\Debug\net9.0\ATMSimulation-Venegas-A2.deps.json
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\bin\Debug\net9.0\ATMSimulation-Venegas-A2.runtimeconfig.json
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\bin\Debug\net9.0\ATMSimulation-Venegas-A2.dll
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\bin\Debug\net9.0\ATMSimulation-Venegas-A2.pdb
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\obj\Debug\net9.0\ATMSimulation-Venegas-A2.GeneratedMSBuildEditorConfig.editorconfig
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\obj\Debug\net9.0\ATMSimulation-Venegas-A2.AssemblyInfoInputs.cache
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\obj\Debug\net9.0\ATMSimulation-Venegas-A2.AssemblyInfo.cs
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\obj\Debug\net9.0\ATMSimulation-Venegas-A2.csproj.CoreCompileInputs.cache
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\obj\Debug\net9.0\ATMSimulation-Venegas-A2.dll
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\obj\Debug\net9.0\refint\ATMSimulation-Venegas-A2.dll
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\obj\Debug\net9.0\ATMSimulation-Venegas-A2.pdb
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\obj\Debug\net9.0\ATMSimulation-Venegas-A2.genruntimeconfig.cache
+\\win-9u77nfs6td3\folder redirection\ihub31\My Documents\Term2_VENEGAS_JOHNRYLL\ATMSimulation-Venegas-A2\obj\Debug\net9.0\ref\ATMSimulation-Venegas-A2.dll
